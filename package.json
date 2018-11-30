@@ -1,7 +1,7 @@
 {
-  "name": "friend",
+  "name": "cha",
   "version": "0.0.1",
-  "description": "A Friend Official LINE bot",
+  "description": "LINE bot",
   "main": "index.js",
   "scripts": {
     "start": "node ."
